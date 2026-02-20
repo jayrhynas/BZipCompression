@@ -19,3 +19,17 @@ DerivedData
 
 Pods
 Tests/BZipCompressionTests.xcodeproj/xcshareddata/
+
+# Created by https://www.toptal.com/developers/gitignore/api/swiftpm
+# Edit at https://www.toptal.com/developers/gitignore?templates=swiftpm
+
+### SwiftPM ###
+Packages
+.build/
+xcuserdata
+DerivedData/
+*.xcodeproj
+
+
+# End of https://www.toptal.com/developers/gitignore/api/swiftpm
+
